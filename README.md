@@ -3,14 +3,27 @@
 [![Coverage Status](https://coveralls.io/repos/github/rrobrms/w3w/badge.svg?branch=main)](https://coveralls.io/github/rrobrms/w3w?branch=main)
 <!-- [![Latest Release](https://img.shields.io/github/v/release/rrobrms/w3w)](https://github.com/rrobrms/w3w/releases) -->
 
-# Eth wallet CLI
+# W3W - eth wallet CLI
 
 > Simple CLI to generate ether wallets from `go-ethereum`
 
 ## Install
 
-> `go get github.com/rrobrms/w3w`
+### Packages
+Direct downloads are available through the [releases page](https://github.com/rrobrms/w3w/releases/latest).
 
+### GO
+> `go install github.com/rrobrms/w3w@latest`
+
+### Manual
+
+You'll need to [install Go](https://golang.org/doc/install)
+
+```
+git clone https://github.com/rrobrms/w3w.git
+cd lazygit
+go install
+```
 
 ## usage
 
