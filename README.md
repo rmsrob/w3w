@@ -9,21 +9,20 @@
 
 ## Install
 
-### Packages
+#### Packages
 Direct downloads are available through the [releases page](https://github.com/rrobrms/w3w/releases/latest).
 
-### GO
+#### GO
 > `go install github.com/rrobrms/w3w@latest`
 
-### Manual
+#### Manual
 
-You'll need to [install Go](https://golang.org/doc/install)
-
-```
-git clone https://github.com/rrobrms/w3w.git
-cd lazygit
-go install
-```
+> You'll need to [install Go](https://golang.org/doc/install)
+>```sh
+> git clone https://github.com/rrobrms/w3w.git
+> cd w3w
+> go install
+>```
 
 ## usage
 
